@@ -17,7 +17,7 @@ const Hero = () => {
         
         <div className="space-y-4">
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-sm text-muted-foreground">
-            <span>Led by Senior Web Engineer</span>
+            <span>Senior Web Engineer</span>
             <span className="hidden md:block">•</span>
             <span>8+ Years Experience</span>
             <span className="hidden md:block">•</span>
